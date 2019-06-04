@@ -12,11 +12,13 @@
     ],
     "Acknowledgements": "",
     "HowToAcknowledge": "",
-    "Funding": ["Natural Sciences and Engineering Research Council of Canada Fellowship (PGSD3-471313-2015) awarded to M.P."],
+    "Funding": [
+        "Natural Sciences and Engineering Research Council of Canada Fellowship (PGSD3-471313-2015) awarded to M.P."
+    ],
     "ReferencesAndLinks": [
         "",
         "",
         ""
     ],
-    "DatasetDOI": ""
+    "DatasetDOI": "10.18112/openneuro.ds001883.v1.0.1"
 }
